@@ -1,0 +1,17 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.country-box {
+  background-color: #b3daff;
+  width: 95%;
+  margin: 20px auto;
+  border: 5px solid orange;
+  border-radius: 20px;
+  cursor:pointer;
+}
+
+article {
+  position: sticky;
+}

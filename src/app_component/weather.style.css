@@ -1,0 +1,17 @@
+.container {
+  margin-top: 1.2rem;
+  position: -webkit-sticky;
+  position: sticky;
+  padding-bottom: 4rem;
+}
+
+.container input,
+.container ::-webkit-input-placeholder {
+  color: white !important;
+}
+.container input:focus {
+  background-color: transparent;
+  box-shadow: none !important;
+  border: none;
+  border-bottom: 2px solid darkblue;
+}
